@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(72,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(83,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(282,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ezhik\source\repos\Regex.cpp\Regex.cpp\Source.cpp(340,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Regex.cpp.vcxproj -> C:\Users\ezhik\source\repos\Regex.cpp\Debug\Regex.cpp.exe
